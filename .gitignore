@@ -1,3 +1,8 @@
+
+# My files
+.env
+CSR_env
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
